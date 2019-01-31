@@ -1,0 +1,95 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+    color: darkgoldenrod;
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: rebeccapurple;
+}
+
+
+
+
+
+
+h1 {
+    margin: 0;
+    float: left;
+}
+ul li a {
+   
+    margin: 0;
+    padding: 0;
+    color: darkgoldenrod;
+    text-decoration: none;
+    
+    
+}
+
+
+ul{
+    list-style-type: none;
+    float: right;
+    margin: 10px;
+}
+li {
+    float: left;
+    margin-left: 20px;
+}
+
+ .main p {
+     margin: 20px;
+
+ }
+
+.main div.content
+ {
+    width: 70%;
+    float: left;
+background-color: lightgray;
+min-height: 500px;
+margin: 0;
+
+
+
+}
+.blog-post img {
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+
+    
+    
+    
+}
+
+.main div.sidebar  {
+   
+    width: 30%;
+    float: right;
+    background-color: darkgray;
+    color: white;
+    min-height: 500px;
+    margin: 0;
+
+}
+
+
+.blog-post {
+    margin: 10px;
+    background-color: white;
+    border: lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    overflow: auto;
+}
+
+
+
+
+
+
+
